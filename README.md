@@ -30,6 +30,7 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/nolan/64/java-eclipse.png"/>
   <img src="https://img.icons8.com/dusk/64/000000/navicat.png"/>
+  <img src="https://img.icons8.com/nolan/64/sublime-text-new-logo.png"/>
 </p>
 
 <table style="width:100%;">
