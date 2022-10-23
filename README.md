@@ -10,7 +10,7 @@
 ## 📫 How to reach me:
 
 <p align="center">
-  <a href="https://www.facebook.com/ngo.trunghieu.5811" alt="Facebook">
+  <a href="https://www.facebook.com/Ngo.TrungHieu.K66.IT.HUST" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://github.com/engineer276" alt="Github">
