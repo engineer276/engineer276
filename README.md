@@ -4,7 +4,7 @@
 
 - ✍ I'm a student of: [Hanoi University of Science and Technology - HUST](https://www.hust.edu.vn/).
 
-- 🌱 I’m currently learning **IT.**
+- 🌱 I’m currently learning **Information of Technology (IT).**
 
 
 ## 📫 How to reach me:
