@@ -55,3 +55,6 @@
     <img alt="Computer hardware" title="Computer hardware" src="" width="300px" />
   </a>
 </p>
+
+##Snake eating my contribution graph
+![snake gif](https://github.com/YOUR_USERNAME/engineer276/blob/output/github-contribution-grid-snake.gif)
