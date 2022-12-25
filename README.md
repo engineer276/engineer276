@@ -56,5 +56,5 @@
   </a>
 </p>
 
-##Snake eating my contribution graph
+## Snake eating my contribution graph
 ![snake gif](https://github.com/engineer276/engineer276/blob/output/github-contribution-grid-snake.gif)
