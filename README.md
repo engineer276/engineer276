@@ -45,16 +45,7 @@
   </tr>
 </table>
 
-# Certificates:
-
-<p align="center">
-  <a href="https://codelearn.io/certification/mzbiy2y0">
-    <img alt="Computer software" title="Computer software" src="" width="300px" />
-  </a>
-  <a href="https://codelearn.io/certification/zwzmmwm2">
-    <img alt="Computer hardware" title="Computer hardware" src="" width="300px" />
-  </a>
-</p>
+<!-- # Certificates: -->
 
 ## My contribution graph
 ![snake gif](https://github.com/engineer276/engineer276/blob/output/github-contribution-grid-snake.gif)
