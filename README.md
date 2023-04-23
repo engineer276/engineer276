@@ -1,3 +1,4 @@
+<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Ngo Hieu </h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
@@ -45,7 +46,7 @@
   </tr>
 </table>
 
-<!-- # Certificates: -->
-
+# Certificates:
+- [![HACKERRANK](https://img.shields.io/badge/-HACKERRANK-orange) SQL (BASIC)](https://www.hackerrank.com/certificates/b484a56950a1)
 ## My contribution graph
 ![snake gif](https://github.com/engineer276/engineer276/blob/output/github-contribution-grid-snake.gif)
