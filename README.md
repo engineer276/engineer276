@@ -48,5 +48,6 @@
 
 # Certificates:
 - [![HACKERRANK](https://img.shields.io/badge/-HACKERRANK-orange) SQL (BASIC)](https://www.hackerrank.com/certificates/b484a56950a1)
+- [![HACKERRANK](https://img.shields.io/badge/-HACKERRANK-orange) SQL (Intermediate)](https://www.hackerrank.com/certificates/d5a1ec5bd336)
 ## My contribution graph
 ![snake gif](https://github.com/engineer276/engineer276/blob/output/github-contribution-grid-snake.gif)
