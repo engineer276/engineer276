@@ -32,3 +32,6 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=engineer276&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+# Certificates:
+- [![HACKERRANK](https://img.shields.io/badge/-HACKERRANK-orange) SQL (BASIC)](https://www.hackerrank.com/certificates/b484a56950a1)
+- [![HACKERRANK](https://img.shields.io/badge/-HACKERRANK-orange) SQL (Intermediate)](https://www.hackerrank.com/certificates/d5a1ec5bd336)
