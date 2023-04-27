@@ -15,7 +15,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌐Socials
+## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hieuu.nt.276) 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 # 💻Tech Stack
@@ -29,10 +29,18 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=engineer276&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=engineer276&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# Certificates:
+## 🐍 My Contribution grid
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/engineer276/engineer276/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/engineer276/engineer276/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/engineer276/engineer276/output/github-contribution-grid-snake.svg">
+</picture>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# 🐱‍👤Certificates:
 - [![HACKERRANK](https://img.shields.io/badge/-HACKERRANK-orange) SQL (BASIC)](https://www.hackerrank.com/certificates/b484a56950a1)
 - [![HACKERRANK](https://img.shields.io/badge/-HACKERRANK-orange) SQL (Intermediate)](https://www.hackerrank.com/certificates/d5a1ec5bd336)
