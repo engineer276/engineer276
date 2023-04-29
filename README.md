@@ -8,7 +8,7 @@
 
 - ✍ I'm a student of: [Hanoi University of Science and Technology - HUST](https://www.hust.edu.vn/).
 
-- 🌱 I’m currently learning **Information of Technology (IT).**
+- 🌱 I’m currently learning **Computer science.**
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+a+Huster"></p>
 
 > [![View count](https://visitcount.itsvg.in/api?id=engineer276&icon=2&color=0)](https://visitcount.itsvg.in)
