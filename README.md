@@ -15,7 +15,7 @@
 
 ## 📫 How to reach me: 
 
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/engineer276/)<br> 
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/engineer276/) [![Facebook](https://i.imgur.com/N5R0EkH.png) Facebook](https://www.facebook.com/hieuu.nt.276/)<br> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -56,6 +56,11 @@
 <a href="https://github.com/engineer276/ML-foundations/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=engineer276&repo=ML-foundations&theme=highcontrast" />
+</a>
+
+<a href="https://github.com/engineer276/ASCII-generator/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=engineer276&repo=ASCII-generator&theme=dracula" />
 </a>
 
 <picture>
