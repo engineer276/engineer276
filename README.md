@@ -11,8 +11,6 @@
 - 🌱 I’m currently learning **Computer science.**
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+a+Huster"></p>
 
-> [![View count](https://visitcount.itsvg.in/api?id=engineer276&icon=2&color=0)](https://visitcount.itsvg.in)
-
 ## 📫 How to reach me: 
 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/engineer276/) [![Facebook](https://i.imgur.com/N5R0EkH.png) Facebook](https://www.facebook.com/hieuu.nt.276/)<br> 
